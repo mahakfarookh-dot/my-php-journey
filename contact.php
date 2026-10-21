@@ -13,7 +13,7 @@
 
         <textarea name="message" name="name" placeholder="Your Message" required
             style="width:100%;padding:12px;margin-bottom:15px;border:1px solid #ccc;border-radius:5px;"></textarea>
-
+        <!-- this is a comment  -->
         <button type="submit"
             style="background:#00bcd4;color:white;padding:12px30px;border:none;border-radius:5px;cursor:pointer;">
           Send Message
